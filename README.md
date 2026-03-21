@@ -1,4 +1,4 @@
-<!-- Profile README — AayushAtMars -->
+<img width="1907" height="1046" alt="image" src="https://github.com/user-attachments/assets/d7fa2ee4-ff11-4f72-9287-f1f2c19ad155" /><!-- Profile README — AayushAtMars -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Full+Stack+Engineer;I+build+things+people+use." alt="Typing SVG" />
@@ -46,8 +46,8 @@ APIs/Tools →  Google Maps API, Gemini AI, Cloudinary, Redux, face-api.js
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushAtMars&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushAtMars&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushAtMars&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushAtMars&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" height="160" />
 </p>
 
 ---
