@@ -1,5 +1,3 @@
-<img width="1907" height="1046" alt="image" src="https://github.com/user-attachments/assets/d7fa2ee4-ff11-4f72-9287-f1f2c19ad155" /><!-- Profile README — AayushAtMars -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Full+Stack+Engineer;I+build+things+people+use." alt="Typing SVG" />
 </h1>
