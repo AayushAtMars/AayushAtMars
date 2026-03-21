@@ -1,5 +1,7 @@
+<!-- Profile README — AayushAtMars -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Full+Stack+Engineer;I+build+things+people+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Full+Stack+Engineer+%7C+India;I+build+things+people+actually+use." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,31 +32,36 @@ APIs/Tools →  Google Maps API, Gemini AI, Cloudinary, Redux, face-api.js
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **[OnWay — Urban Mobility](https://on-way2.vercel.app)** | Real-time bus tracking for Tier-2 cities with live ETAs | React · Express · WebSockets · MongoDB |
 | **[Super60 — Dev Community](https://www.supersixty.in/)** | Platform to showcase developer profiles & contributions | React · Node.js · MongoDB · Cloudinary |
 | **[FaceDx — AI Healthcare](https://face-dx.vercel.app/)** | Facial recognition for instant medical record access | React · Gemini AI · face-api.js · Redux |
 | **[SkillUp — Workshop Platform](https://skillup.supersixty.in)** | End-to-end workshop & attendance management system | React · Node · Express · MongoDB |
 | **[AayuTv — Streaming](https://aayutv.vercel.app/)** | Movie & web-series streaming platform | React · Node.js · Supabase · JWT |
-| **[OnWay — Urban Mobility](https://on-way2.vercel.app)** | Real-time bus tracking for Tier-2 cities with live ETAs | React · Express · WebSockets · MongoDB |
 | **[3D Portfolio](https://aayush-rajput.vercel.app/)** | Immersive 3D personal portfolio | React · Three.js · Tailwind |
 | **[DevTrack](#)** | Mobile app for developers to track progress | React Native · Firebase |
 | **[Random GIF Generator](https://random-gif-genrator-neon.vercel.app/)** | GIPHY-powered GIF explorer | React · GIPHY API · Tailwind |
 
 ---
 
-## 📊 GitHub Stats
+## 🔨 Currently Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushAtMars&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushAtMars&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" height="160" />
-</p>
+> **AayuTools — Developer Productivity Suite**
+> A collection of fast, minimal dev tools for everyday use — JSON formatter, regex tester, color picker, and more. No bloat, no ads, just tools.
+>
+> `React` `Tailwind` `In Progress`
+
+---
+
+## 🏆 Highlights
+
+![Projects](https://img.shields.io/badge/Projects%20Shipped-8%2B-58a6ff?style=flat-square)
+![Contributions](https://img.shields.io/badge/Contributions-298-3fb950?style=flat-square)
+![Technologies](https://img.shields.io/badge/Technologies-14%2B-f6b73c?style=flat-square)
+![PRO](https://img.shields.io/badge/GitHub-PRO-d63aff?style=flat-square&logo=github)
 
 ---
 
 ## 🟩 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushAtMars&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=39d353" alt="Contribution Graph" />
-</p>
 
 <!-- Snake animation — auto-generated via GitHub Actions -->
 <p align="center">
@@ -73,7 +80,6 @@ APIs/Tools →  Google Maps API, Gemini AI, Cloudinary, Redux, face-api.js
   <a href="https://www.aayushrajput.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aayush-kumar-singh-41a23a24a"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2" /></a>
   <a href="mailto:yoaayush14@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
